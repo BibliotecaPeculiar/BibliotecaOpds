@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <feed xmlns:opds="http://opds-spec.org/2010/catalog" xmlns="http://www.w3.org/2005/Atom">
-  <title>Catálogo OPDS - Biblioteca Peculiar</title>
-  <id>urn:uuid:biblioteca-peculiar</id>
-  <updated>2025-06-21T19:47:14.639536Z</updated>
+  <title>Catálogo OPDS - Livro de Teste</title>
+  <id>urn:uuid:biblioteca-peculiar-teste</id>
+  <updated>2025-06-21T19:40:57.531823Z</updated>
   <entry>
     <title>0.5 A Lamina da Assassina</title>
     <id>https://drive.usercontent.google.com/download?id=1nI8p2GxeHaBdUmHFA6_2tsEApU_4Gy_0&amp;export=download&amp;authuser=1&amp;confirm=t&amp;uuid=e1403318-90d7-4ee1-8fa5-8fc38a410dfe&amp;at=AN8xHoq1MMTLumdEiashWMDuUO_6:1750531905891</id>
@@ -22,10 +22,11 @@ O livro se desenvolve através de cinco histórias, que fluem diretamente uma pa
 
 A lâmina da Assassina é o pacote completo do gênero de fantasia. Repleto, aventura, drama e romance. Tem todos os elementos que os leitores da série Trono de Vidro adoram e uma história cheia de ação e reviravoltas.</summary>
     <category term="Trono de Vidro"/>
-    <link href="https://drive.google.com/file/d/1nI8p2GxeHaBdUmHFA6_2tsEApU_4Gy_0/view?usp=drive_link" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
-    <link href="https://drive.google.com/file/d/1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa/view?usp=drive_link" type="image/jpeg" rel="http://opds-spec.org/image"/>
-    <link href="https://drive.google.com/file/d/1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa/view?usp=drive_link" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+    <link href="https://drive.usercontent.google.com/download?id=1nI8p2GxeHaBdUmHFA6_2tsEApU_4Gy_0&amp;export=download&amp;authuser=1&amp;confirm=t&amp;uuid=e1403318-90d7-4ee1-8fa5-8fc38a410dfe&amp;at=AN8xHoq1MMTLumdEiashWMDuUO_6:1750531905891" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+    <link href="https://drive.usercontent.google.com/download?id=1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa&amp;export=download&amp;authuser=1&amp;confirm=t&amp;uuid=f859326e-dea4-4cfe-be0c-a26803cd6132&amp;at=AN8xHooidKMJjTp5LglNW6f1d1fJ:1750534437061" type="image/jpeg" rel="http://opds-spec.org/image"/>
+    <link href="https://drive.usercontent.google.com/download?id=1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa&amp;export=download&amp;authuser=1&amp;confirm=t&amp;uuid=f859326e-dea4-4cfe-be0c-a26803cd6132&amp;at=AN8xHooidKMJjTp5LglNW6f1d1fJ:1750534437061" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
   </entry>
+</feed>
   <entry>
     <title>1 Trono de Vidro</title>
     <id>https://drive.google.com/file/d/1WmS0fNTO63iKaVNC_Xuq8st3ZUV2WzLR/view?usp=drive_link</id>
