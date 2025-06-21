@@ -1,29 +1,98 @@
 <?xml version="1.0" ?>
 <feed xmlns:opds="http://opds-spec.org/2010/catalog" xmlns="http://www.w3.org/2005/Atom">
-  <title>Catálogo OPDS - Todos os Livros</title>
-  <id>urn:uuid:catalogo-opds-todos</id>
-  <updated>2025-06-21T22:29:10.423036Z</updated>
-  <entry>
-    <title>0.5 A Lamina da Assassina</title>
-    <id>https://drive.usercontent.google.com/download?id=1nI8p2GxeHaBdUmHFA6_2tsEApU_4Gy_0&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=placeholder-uuid&amp;at=placeholder-token</id>
-    <updated>2025-06-21T22:29:10.423699Z</updated>
-    <author>
-      <name>Sarah J. Maas</name>
-    </author>
-    <summary>Poucos conhecem seu rosto, menos ainda sobrevivem à sua fúria.
-
-Não à toa Celaena Sardothien é sinônimo de morte. Suas lâminas são certeiras. Assim como
-
-também o é seu estranho código de honra. Seu aguçado senso de justiça. Única, ela foi criada nas sarjetas. Mas como uma menina, encontrada agonizando pelo rei dos Assassinos de Adarlan, se tornaria a campeã do rei? Disputada pelo capitão da guarda real e pelo próprio príncipe herdeiro? No centro de intrigas políticas?
-
-Conheça o caminho da assassina. Pavimentado com sangue, lágrimas e suor. Acompanhe Celaena vencer um lorde pirata e toda a sua tripulação; o encontro com uma curandeira; seu treinamento com o Mestre Mudo, senhor dos assassinos silenciosos, nas dunas do deserto Vermelho; a prisão nas Minas de Sal de Endovier; ou, ainda, sua luta contra o mais escorregadio e traiçoeiro dos adversários - o próprio coração.
-
-O livro se desenvolve através de cinco histórias, que fluem diretamente uma para a outra e, juntas, contam a história dos eventos que levaram Celaena até onde ela está no começo de Trono de Vidro. É definitivamente uma oportunidade de conhecer a protagonista em um nível muito mais profundo.
-
-A lâmina da Assassina é o pacote completo do gênero de fantasia. Repleto, aventura, drama e romance. Tem todos os elementos que os leitores da série Trono de Vidro adoram e uma história cheia de ação e reviravoltas.</summary>
-    <category term="Trono de Vidro"/>
-    <link href="https://drive.usercontent.google.com/download?id=1nI8p2GxeHaBdUmHFA6_2tsEApU_4Gy_0&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=placeholder-uuid&amp;at=placeholder-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
-    <link href="https://drive.usercontent.google.com/download?id=1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=placeholder-uuid&amp;at=placeholder-token" type="image/jpeg" rel="http://opds-spec.org/image"/>
-    <link href="https://drive.usercontent.google.com/download?id=1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=placeholder-uuid&amp;at=placeholder-token" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
-  </entry>
+<title>Coleção Sarah J. Maas - Trono de Vidro</title>
+<id>urn:uuid:sarah-j-maas-trono-de-vidro</id>
+<updated>2025-06-21T22:34:46.814406Z</updated>
+<entry>
+<title>Livro 0,5 A Lâmina Assassina</title>
+<id>https://drive.usercontent.google.com/download?id=1uvcd_LqTdimKc84K69tE_FVV8B9vW4AU&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.814688Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1uvcd_LqTdimKc84K69tE_FVV8B9vW4AU&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+<link href="https://drive.usercontent.google.com/download?id=1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="image/jpeg" rel="http://opds-spec.org/image"/>
+<link href="https://drive.usercontent.google.com/download?id=1Ad5t2HqKzhEKNflK2SEEti0uMbR3eDWa&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="image/jpeg" rel="http://opds-spec.org/image/thumbnail"/>
+</entry>
+<entry>
+<title>Livro 1 Trono de Vidro</title>
+<id>https://drive.usercontent.google.com/download?id=1clHFQv77P7LuhZRnvW1Kzey1uCnH0KGo&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.814705Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1clHFQv77P7LuhZRnvW1Kzey1uCnH0KGo&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
+<entry>
+<title>Livro 2 Coroa da Meia-Noite</title>
+<id>https://drive.usercontent.google.com/download?id=1mVKI1qhgQaJ2cMOJFiDg4f2wZvdmC6Cb&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.815650Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1mVKI1qhgQaJ2cMOJFiDg4f2wZvdmC6Cb&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
+<entry>
+<title>Livro 3 Herdeira do Fogo</title>
+<id>https://drive.usercontent.google.com/download?id=1IBTBI6NMmIl4YeEu2tAgrEYEQef5w2Z7&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.815668Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1IBTBI6NMmIl4YeEu2tAgrEYEQef5w2Z7&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
+<entry>
+<title>Livro 4 Rainha das Sombras</title>
+<id>https://drive.usercontent.google.com/download?id=1VDPVaxhiXkXs55iOjD6UuK282djQ7dla&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.815675Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1VDPVaxhiXkXs55iOjD6UuK282djQ7dla&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
+<entry>
+<title>Livro 5.1 Império de Tempestades Tomo 1</title>
+<id>https://drive.usercontent.google.com/download?id=1Kv0hjJSujaalJzBW11UmVhfwhvLJgPsk&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.815681Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1Kv0hjJSujaalJzBW11UmVhfwhvLJgPsk&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
+<entry>
+<title>Livro 5.2 Império de Tempestades Tomo 2</title>
+<id>https://drive.usercontent.google.com/download?id=1Wbrsvomb7108j4gNVV95nNdfRwrKxr08&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.815685Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1Wbrsvomb7108j4gNVV95nNdfRwrKxr08&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
+<entry>
+<title>Livro 6 Torre do Alvorecer</title>
+<id>https://drive.usercontent.google.com/download?id=1LpDWVDGfqriGnGDY5m1DyubHn9kN8_f6&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.815693Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1LpDWVDGfqriGnGDY5m1DyubHn9kN8_f6&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
+<entry>
+<title>Livro 7 Reino de Cinzas</title>
+<id>https://drive.usercontent.google.com/download?id=1j7PDIJVEJjajJ9Z1ELrZqysHqBaJd5l4&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token</id>
+<updated>2025-06-21T22:34:46.815700Z</updated>
+<author>
+<name>Sarah J. Maas</name>
+</author>
+<category term="Trono de Vidro"/>
+<link href="https://drive.usercontent.google.com/download?id=1j7PDIJVEJjajJ9Z1ELrZqysHqBaJd5l4&export=download&authuser=1&confirm=t&uuid=dummy-uuid&at=dummy-token" type="application/epub+zip" rel="http://opds-spec.org/acquisition"/>
+</entry>
 </feed>
