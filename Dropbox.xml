@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:dc="http://purl.org/dc/terms/"
+      xmlns:opds="http://opds-spec.org/2010/catalog">
+
+  <id>urn:uuid:catalog-serie-uma-chama</id>
+  <title>Série: Uma Chama Entre as Cinzas</title>
+  <updated>2025-06-22T00:00:00Z</updated>
+  <author>
+    <name>Minha Biblioteca Peculiar</name>
+  </author>
+  <link rel="self" href="https://seu-usuario.github.io/catalog.xml" type="application/atom+xml;profile=opds-catalog"/>
+
+  <!-- Livro 1 -->
+  <entry>
+    <title>Uma Chama Entre as Cinzas (Livro 1)</title>
+    <author>
+      <name>Sabaa Tahir</name>
+    </author>
+    <id>urn:uuid:uma-chama-entre-as-cinzas</id>
+    <updated>2025-06-22T00:00:00Z</updated>
+    <dc:language>pt</dc:language>
+    <dc:identifier>urn:isbn:9788555340361</dc:identifier>
+    <summary>Primeiro livro da série Uma Chama Entre as Cinzas. Uma jovem escrava e um soldado relutante enfrentam um império cruel.</summary>
+    <content type="text">Uma história de resistência, coragem e destino em um império brutal inspirado na Roma Antiga.</content>
+    <link rel="http://opds-spec.org/image" type="image/jpeg"
+          href="https://www.dropbox.com/scl/fi/b6vrz0y4dhthfgiwrfzwv/Cover-1.jpg?rlkey=jpm63yv1sc5xgrchwj6crkr0e&amp;st=ef4os8h3&amp;dl=1"/>
+    <link rel="http://opds-spec.org/image/thumbnail" type="image/jpeg"
+          href="https://www.dropbox.com/scl/fi/b6vrz0y4dhthfgiwrfzwv/Cover-1.jpg?rlkey=jpm63yv1sc5xgrchwj6crkr0e&amp;st=ef4os8h3&amp;dl=1"/>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="https://www.dropbox.com/scl/fi/849135hcrbh6887nlng0w/1-Uma-Chama-Entre-As-Cinzas.epub?rlkey=1263md9so09d48e0piy3v0y7i&amp;st=qzgfc9ku&amp;dl=1"/>
+  </entry>
+
+  <!-- Livro 2 -->
+  <entry>
+    <title>Uma Tocha na Escuridão (Livro 2)</title>
+    <author>
+      <name>Sabaa Tahir</name>
+    </author>
+    <id>urn:uuid:uma-tocha-na-escuridao</id>
+    <updated>2025-06-22T00:00:00Z</updated>
+    <dc:language>pt</dc:language>
+    <summary>Segundo livro da série. Laia e Elias enfrentam novos perigos enquanto lutam para salvar seu mundo.</summary>
+    <content type="text">A fuga do Império marca apenas o início de sua jornada mais mortal.</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="https://exemplo.com/livros/2-Uma-Tocha-na-Escuridao.epub"/>
+  </entry>
+
+  <!-- Livro 3 -->
+  <entry>
+    <title>Um Véu de Cinzas e Luz (Livro 3)</title>
+    <author>
+      <name>Sabaa Tahir</name>
+    </author>
+    <id>urn:uuid:um-veu-de-cinzas-e-luz</id>
+    <updated>2025-06-22T00:00:00Z</updated>
+    <dc:language>pt</dc:language>
+    <summary>Terceiro livro da série. Elias se torna algo além de humano, enquanto Laia luta contra traições internas e externas.</summary>
+    <content type="text">A guerra se aproxima. O destino do Império está por um fio.</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="https://exemplo.com/livros/3-Um-Veu-de-Cinzas-e-Luz.epub"/>
+  </entry>
+
+  <!-- Livro 4 -->
+  <entry>
+    <title>Um Céu Além da Tempestade (Livro 4)</title>
+    <author>
+      <name>Sabaa Tahir</name>
+    </author>
+    <id>urn:uuid:um-ceu-alem-da-tempestade</id>
+    <updated>2025-06-22T00:00:00Z</updated>
+    <dc:language>pt</dc:language>
+    <summary>Conclusão épica da saga. Elias, Laia e Helene enfrentam seus destinos em meio ao caos final do Império.</summary>
+    <content type="text">Amor, sacrifício e a luta final por liberdade.</content>
+    <link rel="http://opds-spec.org/acquisition" type="application/epub+zip"
+          href="https://exemplo.com/livros/4-Um-Ceu-Alem-da-Tempestade.epub"/>
+  </entry>
+
+</feed>
